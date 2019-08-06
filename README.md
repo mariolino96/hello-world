@@ -1,2 +1,2 @@
 # hello-world
-Probando esta mierda
+Quiero aprender a usar GitHub a ver cual es la palabreria
